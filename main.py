@@ -78,7 +78,7 @@ def equal():
 if __name__ == '__main__':
     root = Tk()
     root.title("Calculator")
-    root.geometry("400x350")
+    root.geometry("368x178")
 
     result = ''
     query = ''
